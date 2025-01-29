@@ -1,0 +1,26 @@
+body{
+    background-image:url("img3.jpg") ;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: cover;
+    position: relative;
+    float: left;
+
+}
+
+div{
+    border-style: solid;
+    background-color: white;
+    border-color: white;
+    box-sizing: content-box;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    justify-content: center;
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    padding: 100px;
+    border-radius: 20px;
+    
+}
